@@ -1,0 +1,47 @@
+.header {
+    position: relative;
+    text-align: left;
+    background: url(../img/pngwing.png) no-repeat;
+    background-position: right 330px top 90px;
+    background-size: 33% auto;
+    min-height: 700px;
+    position: relative;
+}
+
+.header_logo{
+    padding-top: 22px;
+    width: 283px;
+    color: black;
+    margin-bottom: 123px;
+}
+
+.header_title {
+    margin-top: 123px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 60px;
+    font-family: 'Roboto';
+}
+
+.header_text {
+    margin-top: 26px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.contacts_box {
+    float: left;
+    margin-top: 55px;
+    margin-right: 50px;
+    display: flex;
+    flex-direction: row;
+}
+
+.contacts_image {
+    margin-right: 56px;
+}
+
